@@ -1,0 +1,1 @@
+{"types": ["image_array", "float", "float", "str"], "start": 1573291957.9167473, "inputs": ["cam/image_array", "user/angle", "user/throttle", "user/mode"]}
